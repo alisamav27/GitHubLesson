@@ -1,4 +1,5 @@
 # Penguin Analysis
+I think that adelie penguins are superior, like 100,000 times better because they will slap giant petrels
 
 A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
 
